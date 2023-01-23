@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "GjPby0kt5zZzvfvEQXTWhI9nSjBWe2OlHsSWtKsj75M=",
+  "Source": "WebApplication2",
+  "BasePath": "_content/WebApplication2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication2\\wwwroot",
+      "Source": "WebApplication2",
+      "ContentRoot": "C:\\Users\\lalie\\Downloads\\easyproblems-main\\easyproblems-main\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lalie\\Downloads\\easyproblems-main\\easyproblems-main\\WebApplication2\\wwwroot\\styles.css",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lalie\\Downloads\\easyproblems-main\\easyproblems-main\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}
